@@ -1,0 +1,35 @@
+{
+  "name": "pixel-lite-bootstrap-4-ui-kit",
+  "version": "1.0.0",
+  "description": "Pixel Lite Bootstrap 4 UI Kit is a beautifully crafted UI Kit based on Bootstrap 4 Components",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "npx http-server ./html/pages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnobiet/pixel-lite-bootstrap-4-ui-kit.git"
+  },
+  "keywords": [],
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnobiet/pixel-lite-bootstrap-4-ui-kit/issues"
+  },
+  "homepage": "https://github.com/magnobiet/pixel-lite-bootstrap-4-ui-kit#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-tagsinput": "git+https://github.com/bootstrap-tagsinput/bootstrap-tagsinput.git",
+    "gmaps": "git+https://github.com/hpneo/gmaps.git",
+    "headroom.js": "^0.9.4",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "prismjs": "^1.16.0",
+    "smooth-scroll": "^16.1.0",
+    "waypoints": "^4.0.1"
+  }
+}
