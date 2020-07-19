@@ -26,7 +26,7 @@
     "bootstrap-tagsinput": "git+https://github.com/bootstrap-tagsinput/bootstrap-tagsinput.git",
     "gmaps": "git+https://github.com/hpneo/gmaps.git",
     "headroom.js": "^0.9.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "prismjs": "^1.16.0",
     "smooth-scroll": "^16.1.0",
